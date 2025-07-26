@@ -1,0 +1,5 @@
+aiohttp==3.12.7
+certifi==2025.4.26
+colorama==0.4.6
+discord-py-interactions==5.14.0
+onnxruntime==1.22.0
