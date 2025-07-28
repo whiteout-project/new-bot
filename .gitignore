@@ -2,3 +2,4 @@ bot_token.txt
 bot_venv
 __pycache__
 version
+db
